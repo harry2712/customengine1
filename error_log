@@ -1,0 +1,2 @@
+[25-Jan-2019 14:04:36 Asia/Kolkata] PHP Warning:  require_once(/home/adminuser/public_html/eean/judefly.com/Script/includes/config.php): failed to open stream: No such file or directory in /home/adminuser/public_html/eean/judefly.com/Script/bootstrap.php on line 26
+[25-Jan-2019 14:04:36 Asia/Kolkata] PHP Fatal error:  require_once(): Failed opening required '/home/adminuser/public_html/eean/judefly.com/Script/includes/config.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/adminuser/public_html/eean/judefly.com/Script/bootstrap.php on line 26
